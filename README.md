@@ -1,6 +1,6 @@
 # Hi, I'm Iyan 👋
 
-Welcome to my GitHub profile. Here you can find a collection of some of my academic projects. It will be continuously updated as I complete new assignments and projects throughout my studies.
+Welcome to my GitHub profile. Here you can find a collection of my academic and personal projects. It will be continuously updated as I complete new assignments and build new projects.
 
 ---
 
@@ -79,6 +79,20 @@ Welcome to my GitHub profile. Here you can find a collection of some of my acade
     ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
     ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
     ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+---
+
+## 🎮 Personal Projects
+
+  - **Project:** [Platinum Guesser](https://github.com/Iyansr97/Platinum_Guesser)
+    – Web game that puts your memory to the test: can you remember every game in which you earned the PlayStation platinum trophy? It loads a profile's platinums ordered by date and the player has to guess them one by one by searching the IGDB catalogue, filling an inventory-style progress grid. Correct guesses earn coins that can be spent on hints (platinum date, platforms, release year or a word from the title), and every game is saved to a history with play time, accuracy and hints used, so it can be resumed later. Full-stack TypeScript app with a React frontend and a Fastify backend that caches the data in SQLite and matches PlayStation titles to IGDB games through fuzzy name similarity.
+
+    ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+    ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+    ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+    ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+    ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+    ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ---
 
